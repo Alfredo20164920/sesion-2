@@ -3,3 +3,31 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.header-container-padre > *{
+    display: inline-block;
+    /* font-size: 16px;
+    vertical-align: middle;
+    height: 100%;
+    line-height: 45px; */
+}
+.logo{
+    width: 15%;
+}
+
+.navbar {
+    width: 100%;
+    text-align: center;
+    background: #c2c2c2;
+}
+
+.navbar_item{
+    display: inline;
+    text-align: right;
+}
+  
+.actions {
+    width: 15%;
+    text-align: right;
+    background: #c2c2c2;
+}
